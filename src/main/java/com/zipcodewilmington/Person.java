@@ -12,7 +12,7 @@ public class Person {
         this.lastName = lastName;
     }
 
-    // why is this called a GETTER??
+    // why is this called a GETTER?
     public String getFirstName() {
         return firstName;
     }
